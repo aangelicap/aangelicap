@@ -5,10 +5,17 @@ Atuo profissionalmente na área de tecnologia desde 2019. Iniciei minha carreira
 
 Trabalho hoje com javascript, node.js, vue e neste ano comecei a me arriscar no Java.
 
-🌱 Estar sempre em constante aprendizado é meu lema. Amo compartilhar o que eu sei e apoiar outras pessoas. 🧐✨
 
-📫 Atualmente moro em Chapecó, SC
-🔭 Sou desenvolvedora na CI&T
+
+
+
+##### 🌱 Estar sempre em constante aprendizado é meu lema. Amo compartilhar o que eu sei e apoiar outras pessoas. 🧐✨
+
+
+
+
+- 📫 Atualmente moro em Chapecó, SC
+- 🔭 Sou desenvolvedora na CI&T
 
 
 <!--
