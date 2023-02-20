@@ -1,13 +1,14 @@
 ### Hey 👋
 
-Me chamo Angélica, sou brasileira 🇧🇷Tenho formação em Sistemas de Informação. Atuo profissionalmente na área de tecnologia desde 2019. Iniciei minha carreira como QA funcional, migrei para automação de testes e ainda não feliz, migrei para o desenvolvimento. 
+Me chamo Angélica. Tenho formação em Sistemas de Informação. 
+Atuo profissionalmente na área de tecnologia desde 2019. Iniciei minha carreira como QA funcional, migrei para automação de testes e ainda não feliz, migrei para o desenvolvimento. 
 
 Trabalho hoje com javascript, node.js, vue e neste ano comecei a me arriscar no Java.
 
-Estar sempre em constante aprendizado é meu lema. Amo compartilhar o que eu sei e apoiar outras pessoas. 🧐✨
+🌱 Estar sempre em constante aprendizado é meu lema. Amo compartilhar o que eu sei e apoiar outras pessoas. 🧐✨
 
-Atualmente moro em Chapecó, SC
-Sou desenvolvedora na CI&T
+📫 Atualmente moro em Chapecó, SC
+🔭 Sou desenvolvedora na CI&T
 
 
 <!--
