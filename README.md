@@ -3,7 +3,7 @@
 Me chamo Angélica. Tenho formação em Sistemas de Informação. 
 Atuo profissionalmente na área de tecnologia desde 2019. Iniciei minha carreira como QA funcional, migrei para automação de testes e ainda não feliz, migrei para o desenvolvimento. 
 
-Trabalho hoje com javascript, node.js, vue. Neste ano comecei a me arriscar no Java e a brincar com react native.
+Trabalho hoje com javascript, node.js, vue. Neste ano comecei a me arriscar no Java e a brincar com react.
 
 
 
