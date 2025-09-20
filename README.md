@@ -13,7 +13,7 @@ Trabalho hoje com javascript, node.js, vue.
 
 
 
-- 📫 Atualmente moro em Chapecó, SC
+- 📫 Chapecó, SC
 - 🔭 Sou desenvolvedora na CI&T
 
 
